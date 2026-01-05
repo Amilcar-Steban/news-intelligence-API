@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+sentence-transformers>=2.2.2
+torch>=1.13; python_version >= "3.8"
